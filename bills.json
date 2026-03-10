@@ -1,0 +1,14 @@
+{
+    "Bill-1": {
+        "name": "Bill-1",
+        "apartment": "apart-polanka",
+        "rent_pln": 1500.0,
+        "date_agreement_to": "2024-12-31"
+    },
+    "Bill-2": {
+        "name": "Bill-2",
+        "apartment": "apart-polanka",
+        "rent_pln": 1200.0,
+        "date_agreement_to": "2025-12-31"
+    }
+}
